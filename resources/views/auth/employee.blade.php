@@ -25,7 +25,7 @@
     <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <x-icon-employeeMain class="w-5 h-5"></x-icon-employeeMain>
     </svg>
-    <h1 class="text-lg font-semibold">Employee Profile</h1>
+    <h1 class="text-lg font-bold text-black">Employee Profile</h1>
 </div>
 
 

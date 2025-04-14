@@ -140,6 +140,7 @@ class EmployeeProfile extends Component
         }
     }
 
+  
     public function mount($employeeId = null)
     {
         // $this->employeeId = $employeeId ?? Auth::id();
